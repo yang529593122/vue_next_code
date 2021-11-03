@@ -1,0 +1,1 @@
+{"version":3,"file":"reactivity.esm-bundler.js","sources":["../src/index.ts"],"sourcesContent":["import { B } from \"@vue/shared\"\n\nconsole.log(B)\nconst A = 1\nexport {\n    A\n}"],"names":[],"mappings":";;AAEA,OAAO,CAAC,GAAG,CAAC,CAAC,EAAC;AACT,MAAC,CAAC,GAAG;;;;"}

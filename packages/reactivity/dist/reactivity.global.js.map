@@ -1,0 +1,1 @@
+{"version":3,"file":"reactivity.global.js","sources":["../src/index.ts"],"sourcesContent":["import { B } from \"@vue/shared\"\n\nconsole.log(B)\nconst A = 1\nexport {\n    A\n}"],"names":["B"],"mappings":";;;IAEA,OAAO,CAAC,GAAG,CAACA,QAAC,EAAC;AACT,UAAC,CAAC,GAAG;;;;;;;;;;;;"}
